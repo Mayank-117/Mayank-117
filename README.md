@@ -1,16 +1,22 @@
-## Hi there 👋
+Hi there,I'm Mayank Sharma
 
-<!--
-**Mayank-117/Mayank-117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#🚀About Me:
+- B.tech Computer Science And Information Technology Student.
+- Currently Learning Java and DSA
+- Regularly solving problems on LeetCode
 
-Here are some ideas to get you started:
+-----
+#🛠️skills:
+-Java
+-DSA
+-Problem solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-----
+#📫Connect with Me:
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/
+mayank-sharma-ba63b8398
+)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:sharmamayank5490@gmail.com)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://https://www.instagram.com/mayankk_199?igsh=MXZscHRqdjBvbnYwNA==)
+
