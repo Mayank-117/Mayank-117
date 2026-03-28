@@ -16,5 +16,5 @@ Hi there,I'm Mayank Sharma
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mayank-sharma-ba63b8398)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:sharmamayank5490@gmail.com)
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://https://www.instagram.com/mayankk_199)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/mayankk_199)
 
